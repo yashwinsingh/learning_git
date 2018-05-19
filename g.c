@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-cout << "learning git";
+cout << "learning ";
 return 0;
 }
 
